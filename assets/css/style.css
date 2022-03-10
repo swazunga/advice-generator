@@ -1,14 +1,18 @@
 body {
   background-color: black;
   height: 1000px;
+  font-family: "righteous";
 }
 
 .adviceBox {
-  height: 500px;
+  height: auto;
+  width: 50vw;
+  margin: 15vw auto 0 auto;
+  background-color: darkgray;
 }
 
 #adviceNum {
-  color: white;
+  color: green;
   text-align: center;
 }
 
@@ -22,9 +26,9 @@ body {
   color: white;
   text-align: center;
 }
-/* .btnContainer {
+.btnContainer {
   text-align: center;
-} */
+}
 
 .attribution {
   font-size: 11px;
