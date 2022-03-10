@@ -1,0 +1,35 @@
+body {
+  background-color: black;
+  height: 1000px;
+}
+
+.adviceBox {
+  height: 500px;
+}
+
+#adviceNum {
+  color: white;
+  text-align: center;
+}
+
+#adviceWords {
+  color: white;
+  text-align: center;
+}
+
+#adviceBtn {
+  background-color: green;
+  color: white;
+  text-align: center;
+}
+/* .btnContainer {
+  text-align: center;
+} */
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
